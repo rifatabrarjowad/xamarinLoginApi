@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uxNPmJ97ivzitEX05ZeX2ogGvFB3JPHn1wopvb5wi+edCQA4DxcDP8MUl67FfzicbGCv39e4mZYMf0+G2xUU1g==",
+  "success": true,
+  "projectFilePath": "E:\\xamarinLoginApi\\authentication\\authentication\\authentication\\authentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

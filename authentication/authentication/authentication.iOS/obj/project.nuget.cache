@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Q2/Aqq75K1ZcS2An0o8FX6jTOnzXYj4XMb2YER6XVK8TawySwprWZcKlugeAdHkj2dIMAMlcHuv5p3vmQmbOQ==",
+  "success": true,
+  "projectFilePath": "E:\\xamarinLoginApi\\authentication\\authentication\\authentication.iOS\\authentication.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

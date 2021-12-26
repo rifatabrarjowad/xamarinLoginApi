@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b1189fff-0b19-42dd-a394-acd1437c8e25": {
+      "ProjectGuid": "b1189fff-0b19-42dd-a394-acd1437c8e25",
+      "DisplayName": "authentication",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
