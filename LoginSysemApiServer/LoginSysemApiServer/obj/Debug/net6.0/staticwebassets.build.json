@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LXPV7GxWHPLWzDR6gSBGkDnO74GbxMZPJdFruFsp63U=",
+  "Source": "LoginSysemApiServer",
+  "BasePath": "_content/LoginSysemApiServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
