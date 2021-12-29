@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5cRlVCy+3f28xLT2rlkyqdgcfx4+uvOB1H+gMG2pDHLNnfWvjJvCEm98ZfbXsLGcIKu6yvvQHnpnZp5qDQNh3g==",
+  "success": true,
+  "projectFilePath": "E:\\lifegoseon2021\\csharp\\oop2\\RegLoginApp\\RegLoginApp\\RegLoginApp.iOS\\RegLoginApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
