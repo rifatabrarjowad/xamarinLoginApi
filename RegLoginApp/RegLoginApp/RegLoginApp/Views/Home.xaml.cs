@@ -16,5 +16,10 @@ namespace RegLoginApp.Views
         {
             InitializeComponent();
         }
+        async void HaveAccount(object sender, System.EventArgs e)
+        {
+            await Navigation.PushAsync(new LoginPage());
+
+        }
     }
 }
