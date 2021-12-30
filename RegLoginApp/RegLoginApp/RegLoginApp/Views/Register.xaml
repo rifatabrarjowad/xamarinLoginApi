@@ -15,12 +15,12 @@
                 HorizontalOptions="CenterAndExpand" />
             </StackLayout>
             <StackLayout Grid.Row="1" Spacing="10">
-                <Entry Placeholder="Enter Username" Text="{Binding Username}" />
-                <Entry Placeholder="Enter Password" Text="{Binding Password}" IsPassword="True" />
-                <Button Text="Login" Command="{Binding LoginCommand}" HorizontalOptions="Center" BackgroundColor="Purple" TextColor="White" WidthRequest="200" HeightRequest="60" CornerRadius="20" />
+                <Entry Placeholder="Enter Username" x:Name="username" Text="" />
+                <Entry Placeholder="Enter Password" x:Name="password" Text="" IsPassword="True" />
+                <Button Text="Register"   Clicked="RegisterNew" HorizontalOptions="Center" BackgroundColor="Purple" TextColor="White" WidthRequest="200" HeightRequest="60" CornerRadius="20" />
 
                 <Label Text="New User :"/>
-                <Button Text="Register" Clicked="Register" HorizontalOptions="Center" BackgroundColor="DarkOrange" TextColor="White" WidthRequest="200" Command="{Binding RegisterCommand}" HeightRequest="60" CornerRadius="20" />
+                <Button Text="LogIn" Clicked="RegisterNew" HorizontalOptions="Center" BackgroundColor="DarkOrange" TextColor="White" WidthRequest="200" Command="{Binding RegisterCommand}" HeightRequest="60" CornerRadius="20" />
             </StackLayout>
         </Grid>
 
