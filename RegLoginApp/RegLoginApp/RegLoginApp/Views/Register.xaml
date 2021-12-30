@@ -20,7 +20,7 @@
                 <Button Text="Login" Command="{Binding LoginCommand}" HorizontalOptions="Center" BackgroundColor="Purple" TextColor="White" WidthRequest="200" HeightRequest="60" CornerRadius="20" />
 
                 <Label Text="New User :"/>
-                <Button Text="Register" HorizontalOptions="Center" BackgroundColor="DarkOrange" TextColor="White" WidthRequest="200" Command="{Binding RegisterCommand}" HeightRequest="60" CornerRadius="20" />
+                <Button Text="Register" Clicked="Register" HorizontalOptions="Center" BackgroundColor="DarkOrange" TextColor="White" WidthRequest="200" Command="{Binding RegisterCommand}" HeightRequest="60" CornerRadius="20" />
             </StackLayout>
         </Grid>
 

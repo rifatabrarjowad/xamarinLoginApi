@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\lifegoseon2021\\csharp\\oop2\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\RegLoginApp.Android.csproj": {}
+    "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\RegLoginApp.Android.csproj": {}
   },
   "projects": {
-    "E:\\lifegoseon2021\\csharp\\oop2\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\RegLoginApp.Android.csproj": {
+    "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\RegLoginApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\lifegoseon2021\\csharp\\oop2\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\RegLoginApp.Android.csproj",
+        "projectUniqueName": "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\RegLoginApp.Android.csproj",
         "projectName": "RegLoginApp.Android",
-        "projectPath": "E:\\lifegoseon2021\\csharp\\oop2\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\RegLoginApp.Android.csproj",
+        "projectPath": "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\RegLoginApp.Android.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\lifegoseon2021\\csharp\\oop2\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\obj\\",
+        "outputPath": "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "E:\\lifegoseon2021\\csharp\\oop2\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj": {
-                "projectPath": "E:\\lifegoseon2021\\csharp\\oop2\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj"
+              "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj": {
+                "projectPath": "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj"
               }
             }
           }
@@ -48,20 +48,24 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.2196, )"
+              "version": "[5.0.0.2291, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           }
         }
       }
     },
-    "E:\\lifegoseon2021\\csharp\\oop2\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj": {
+    "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\lifegoseon2021\\csharp\\oop2\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj",
+        "projectUniqueName": "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj",
         "projectName": "RegLoginApp",
-        "projectPath": "E:\\lifegoseon2021\\csharp\\oop2\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj",
+        "projectPath": "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\lifegoseon2021\\csharp\\oop2\\RegLoginApp\\RegLoginApp\\RegLoginApp\\obj\\",
+        "outputPath": "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,7 +110,11 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.2196, )"
+              "version": "[5.0.0.2291, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
