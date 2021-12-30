@@ -37,5 +37,9 @@ namespace RegLoginApp.Views
                 var result = await this.DisplayAlert("Congratulation", "User Register Sucessfull", "es", "Cancel");
             });
         }
+        async void HaveAccount(object sender, System.EventArgs e)
+        {
+            await Navigation.PushAsync(new LoginPage());
+        }
     }
 }
