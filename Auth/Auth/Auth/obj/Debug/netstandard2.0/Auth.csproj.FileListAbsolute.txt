@@ -1,0 +1,16 @@
+E:\xamarinLoginApi\Auth\Auth\Auth\bin\Debug\netstandard2.0\Auth.deps.json
+E:\xamarinLoginApi\Auth\Auth\Auth\bin\Debug\netstandard2.0\Auth.dll
+E:\xamarinLoginApi\Auth\Auth\Auth\bin\Debug\netstandard2.0\ref\Auth.dll
+E:\xamarinLoginApi\Auth\Auth\Auth\bin\Debug\netstandard2.0\Auth.pdb
+E:\xamarinLoginApi\Auth\Auth\Auth\obj\Debug\netstandard2.0\Auth.GeneratedMSBuildEditorConfig.editorconfig
+E:\xamarinLoginApi\Auth\Auth\Auth\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\xamarinLoginApi\Auth\Auth\Auth\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\xamarinLoginApi\Auth\Auth\Auth\obj\Debug\netstandard2.0\Auth.AssemblyInfoInputs.cache
+E:\xamarinLoginApi\Auth\Auth\Auth\obj\Debug\netstandard2.0\Auth.AssemblyInfo.cs
+E:\xamarinLoginApi\Auth\Auth\Auth\obj\Debug\netstandard2.0\Auth.csproj.CoreCompileInputs.cache
+E:\xamarinLoginApi\Auth\Auth\Auth\obj\Debug\netstandard2.0\XamlC.stamp
+E:\xamarinLoginApi\Auth\Auth\Auth\obj\Debug\netstandard2.0\Auth.dll
+E:\xamarinLoginApi\Auth\Auth\Auth\obj\Debug\netstandard2.0\ref\Auth.dll
+E:\xamarinLoginApi\Auth\Auth\Auth\obj\Debug\netstandard2.0\Auth.pdb
+E:\xamarinLoginApi\Auth\Auth\Auth\obj\Debug\netstandard2.0\Auth.csproj.AssemblyReference.cache
+E:\xamarinLoginApi\Auth\Auth\Auth\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
