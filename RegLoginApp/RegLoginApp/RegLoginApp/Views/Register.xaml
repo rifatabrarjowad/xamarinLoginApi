@@ -15,8 +15,8 @@
                 HorizontalOptions="CenterAndExpand" />
             </StackLayout>
             <StackLayout Grid.Row="1" Spacing="10">
-                <Entry Placeholder="Enter Username" x:Name="username" Text="Username" />
-                <Entry Placeholder="Enter Password" x:Name="password" Text="Password" IsPassword="True" />
+                <Entry Placeholder="Enter Username" x:Name="username"  />
+                <Entry Placeholder="Enter Password" x:Name="password" IsPassword="True" />
                 <Button Text="Register"   Clicked="RegisterNew" HorizontalOptions="Center" BackgroundColor="Purple" TextColor="White" WidthRequest="200" HeightRequest="60" CornerRadius="20" />
 
                 <Label TextColor="Black"  HorizontalOptions="Center"  Text="All ready have accound :"/>
