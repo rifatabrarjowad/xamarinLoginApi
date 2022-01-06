@@ -34,3 +34,6 @@ E:\xamarinLoginApi\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\
 E:\xamarinLoginApi\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\RegLoginApp.pdb
 E:\xamarinLoginApi\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
 E:\xamarinLoginApi\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\RegLoginApp.csproj.AssemblyReference.cache
+D:\try\xamarinLoginApi\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\RegLoginApp.dll
+D:\try\xamarinLoginApi\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\ref\RegLoginApp.dll
+D:\try\xamarinLoginApi\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\RegLoginApp.pdb

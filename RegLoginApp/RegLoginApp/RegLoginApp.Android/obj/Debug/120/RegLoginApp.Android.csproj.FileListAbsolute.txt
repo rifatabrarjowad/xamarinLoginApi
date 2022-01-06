@@ -1264,3 +1264,8 @@ E:\xamarinLoginApi\RegLoginApp\RegLoginApp\RegLoginApp.Android\obj\Debug\120\sta
 E:\xamarinLoginApi\RegLoginApp\RegLoginApp\RegLoginApp.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 E:\xamarinLoginApi\RegLoginApp\RegLoginApp\RegLoginApp.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 E:\xamarinLoginApi\RegLoginApp\RegLoginApp\RegLoginApp.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+D:\try\xamarinLoginApi\RegLoginApp\RegLoginApp\RegLoginApp.Android\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
+D:\try\xamarinLoginApi\RegLoginApp\RegLoginApp\RegLoginApp.Android\obj\Debug\120\build.props
+D:\try\xamarinLoginApi\RegLoginApp\RegLoginApp\RegLoginApp.Android\obj\Debug\120\adb.props
+D:\try\xamarinLoginApi\RegLoginApp\RegLoginApp\RegLoginApp.Android\obj\Debug\120\RegLoginApp.Android.dll
+D:\try\xamarinLoginApi\RegLoginApp\RegLoginApp\RegLoginApp.Android\obj\Debug\120\RegLoginApp.Android.pdb
