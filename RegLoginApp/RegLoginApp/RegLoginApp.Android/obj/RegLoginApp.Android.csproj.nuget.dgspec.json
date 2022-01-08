@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\RegLoginApp.Android.csproj": {}
+    "D:\\try\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\RegLoginApp.Android.csproj": {}
   },
   "projects": {
-    "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\RegLoginApp.Android.csproj": {
+    "D:\\try\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\RegLoginApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\RegLoginApp.Android.csproj",
+        "projectUniqueName": "D:\\try\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\RegLoginApp.Android.csproj",
         "projectName": "RegLoginApp.Android",
-        "projectPath": "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\RegLoginApp.Android.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\obj\\",
+        "projectPath": "D:\\try\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\RegLoginApp.Android.csproj",
+        "packagesPath": "C:\\Users\\RIFAT\\.nuget\\packages\\",
+        "outputPath": "D:\\try\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\RIFAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj": {
-                "projectPath": "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj"
+              "D:\\try\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj": {
+                "projectPath": "D:\\try\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj"
               }
             }
           }
@@ -42,6 +38,10 @@
       "frameworks": {
         "monoandroid12.0": {
           "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.7.0, )"
@@ -58,21 +58,20 @@
         }
       }
     },
-    "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj": {
+    "D:\\try\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj",
+        "projectUniqueName": "D:\\try\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj",
         "projectName": "RegLoginApp",
-        "projectPath": "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\obj\\",
+        "projectPath": "D:\\try\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\RegLoginApp.csproj",
+        "packagesPath": "C:\\Users\\RIFAT\\.nuget\\packages\\",
+        "outputPath": "D:\\try\\xamarinLoginApi\\RegLoginApp\\RegLoginApp\\RegLoginApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\RIFAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

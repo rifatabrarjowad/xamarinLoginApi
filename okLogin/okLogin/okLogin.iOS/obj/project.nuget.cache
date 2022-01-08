@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6M+8FgiYNY2zDAXElGoylURaV7sQAx/tODorWQb7cgn+AzrVqypiAY9Gq/qZT6JHjSXNggSbPuRxdV2/GgkXqQ==",
+  "success": true,
+  "projectFilePath": "D:\\try\\xamarinLoginApi\\okLogin\\okLogin\\okLogin.iOS\\okLogin.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RIFAT\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\RIFAT\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\RIFAT\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

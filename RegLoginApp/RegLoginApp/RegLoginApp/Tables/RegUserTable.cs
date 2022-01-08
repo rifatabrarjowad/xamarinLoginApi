@@ -1,4 +1,6 @@
-﻿namespace RegLoginApp.Tables
+﻿using System;
+
+namespace RegLoginApp.Tables
 {
     internal class RegUserTable
     {
