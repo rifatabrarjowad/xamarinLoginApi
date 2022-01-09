@@ -1,0 +1,17 @@
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\obj\Debug\netstandard2.0\okLogin.csproj.AssemblyReference.cache
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\obj\Debug\netstandard2.0\okLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\obj\Debug\netstandard2.0\okLogin.AssemblyInfoInputs.cache
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\obj\Debug\netstandard2.0\okLogin.AssemblyInfo.cs
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\obj\Debug\netstandard2.0\okLogin.csproj.CoreCompileInputs.cache
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\obj\Debug\netstandard2.0\okLogin.dll
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\obj\Debug\netstandard2.0\ref\okLogin.dll
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\obj\Debug\netstandard2.0\okLogin.pdb
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\bin\Debug\netstandard2.0\okLogin.deps.json
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\bin\Debug\netstandard2.0\okLogin.dll
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\bin\Debug\netstandard2.0\ref\okLogin.dll
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\bin\Debug\netstandard2.0\okLogin.pdb
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+D:\try\xamarinLoginApi\okLogin\okLogin\okLogin\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs

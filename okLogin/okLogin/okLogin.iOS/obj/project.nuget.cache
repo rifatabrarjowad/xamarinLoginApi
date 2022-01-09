@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6M+8FgiYNY2zDAXElGoylURaV7sQAx/tODorWQb7cgn+AzrVqypiAY9Gq/qZT6JHjSXNggSbPuRxdV2/GgkXqQ==",
+  "dgSpecHash": "g2UKUmaLIZzrREXZ8U1AflCP8jZuUyZFP6uE2nTOrPZsN9PoQRLvHEKLyeQwF78sqbA6K5F38q1gU2bw1sfZRA==",
   "success": true,
   "projectFilePath": "D:\\try\\xamarinLoginApi\\okLogin\\okLogin\\okLogin.iOS\\okLogin.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\RIFAT\\.nuget\\packages\\microsoft.bcl\\1.1.10\\microsoft.bcl.1.1.10.nupkg.sha512",
+    "C:\\Users\\RIFAT\\.nuget\\packages\\microsoft.bcl.build\\1.0.14\\microsoft.bcl.build.1.0.14.nupkg.sha512",
+    "C:\\Users\\RIFAT\\.nuget\\packages\\microsoft.net.http\\2.2.29\\microsoft.net.http.2.2.29.nupkg.sha512",
+    "C:\\Users\\RIFAT\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\RIFAT\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\RIFAT\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\RIFAT\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
